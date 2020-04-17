@@ -1,0 +1,8 @@
+name: brownian_SEQ
+channels: 
+  - conda-forge
+dependencies:
+  - python =3
+  - scipy
+  - numpy
+  - matplotlib
