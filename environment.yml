@@ -6,3 +6,4 @@ dependencies:
   - scipy
   - numpy
   - matplotlib
+  - jupyter_contrib_nbextensions
