@@ -4,4 +4,4 @@
 
 ---
 
-[![Binder](https://mybinder.org/v2/gh/gfarge/brownian_SEQ/master?filepath=brownian_SEQ.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfarge/brownian_SEQ/master?filepath=brownian_SEQ.ipynb)
